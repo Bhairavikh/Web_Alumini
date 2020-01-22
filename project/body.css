@@ -1,0 +1,23 @@
+#body{
+background-color: #8f8f8f;
+}
+
+  body{
+    margin: 0;
+    padding: 0;
+    background-image: url("../project/backmain.jpg ");
+    -webkit-background-size:cover;
+    background-size: cover;
+    font-family: Tahoma,sans-serif;
+  }
+  .form-area{
+position: absolute;
+top: 50%;
+left: 50%;
+transform:translate(-50%,-50%);
+width: 400px;
+height: 500px;
+box-sizing: border-box;
+background:rgba(0,0,0,0.5);
+padding: 40px;
+  }
